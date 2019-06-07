@@ -1,23 +1,17 @@
 # process-manager
 An Example of one application using Spring Boot + Vue.js
 
+## Pre requirements
+- Install nodeJS
 
-####
-TO START SPRING BOOT APPLICATION DO:
+## To start the back-end you need to do these steps:
+- Enter folder process-manager-app 
+- run this command "./gradlew bootRun"
 
-1 - Enter folder process-manager-app 
-
-2 - run this command "./gradlew bootRun"
-
-#####
-TO START WEB APPLICATION DO:
-
-1- Enter folder process-manager-web
-
-2 - Run this command "npm run dev"
+## To start the back-end you need to do these steps:
+- Enter folder process-manager-app 
+- run this command "npm run dev"
 
 
-Pre Requirements -
 
-1 - Install NodeJs
 
