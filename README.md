@@ -8,7 +8,7 @@ An Example of one application using Spring Boot + Vue.js
 - Enter folder process-manager-app 
 - run this command "./gradlew bootRun"
 
-## To start the back-end you need to do these steps:
+## To start the front-end you need to do these steps:
 - Enter folder process-manager-app 
 - run this command "npm run dev"
 
