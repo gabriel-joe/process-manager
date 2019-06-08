@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+    # vue
+    vue:
+      image: gabrieljoe/process-manager-web:latest
+      ports: 
+          - 8080:8080
+      depends_on:
+          - api
+
+    # spring
+    api:
+      image: gabrieljoe/process-manager-app:latest
+      ports: 
+          - 8090:8090
+
