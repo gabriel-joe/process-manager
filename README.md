@@ -13,5 +13,6 @@ An Example of one application using Spring Boot + Vue.js
 - run this command "npm run dev"
 
 
-
+## This project uses docker-compose to start application as well
+- Run "docker-compose up" in root project
 
